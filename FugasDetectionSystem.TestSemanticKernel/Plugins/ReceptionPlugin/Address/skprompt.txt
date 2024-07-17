@@ -1,6 +1,0 @@
-﻿DADA LA SIGUIENTE DIRECCIÓN
-VALIDA LA DIRECCIÓN PARA LA VISITA
-
-++++
-Esta es la dirección:
-{{$address}}

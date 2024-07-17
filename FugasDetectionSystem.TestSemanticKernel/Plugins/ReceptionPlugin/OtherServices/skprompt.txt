@@ -1,6 +1,0 @@
-﻿	 DADO EL SIGUIENTE SERVICIO
-	 PROPORCIONA OPCIONES PARA CONTACTAR
-
-	 ++++
-	 Este es el servicio:
-	 {{$service}}
