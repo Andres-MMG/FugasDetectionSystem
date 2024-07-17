@@ -1,0 +1,9 @@
+﻿DADA LA SIGUIENTE CANTIDAD Y MÉTODO DE PAGO
+GESTIONA UN PAGO
+
+++++
+Esta es la cantidad:
+{{$amount}}
+
+Este es el método de pago:
+{{$payment_method}}

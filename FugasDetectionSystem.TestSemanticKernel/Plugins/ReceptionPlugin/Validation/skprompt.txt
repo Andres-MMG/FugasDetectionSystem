@@ -1,0 +1,15 @@
+﻿DADOS LOS SIGUIENTES DATOS
+VALIDA EL CORREO ELECTRÓNICO, DIRECCIÓN DE CORREO, TELÉFONO Y NÚMERO
+
+++++
+Este es el correo electrónico:
+{{$email}}
+
+Esta es la dirección de correo:
+{{$address}}
+
+Este es el teléfono:
+{{$phone}}
+
+Este es el número:
+{{$number}}

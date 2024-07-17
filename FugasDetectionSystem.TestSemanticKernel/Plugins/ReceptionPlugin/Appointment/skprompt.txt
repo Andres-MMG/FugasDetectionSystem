@@ -1,0 +1,9 @@
+﻿	DADA LA SIGUIENTE FECHA Y HORA
+	BUSCA HORAS DISPONIBLES PARA UNA CITA Y AGENDA UNA CITA
+
+	++++
+	Esta es la fecha:
+	{{$date}}
+
+	Esta es la hora:
+	{{$time}} 

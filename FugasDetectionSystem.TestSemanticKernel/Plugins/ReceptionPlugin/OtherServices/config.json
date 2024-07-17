@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "description": "Proporciona opciones para contactar con otros servicios como carpintería y electricidad.",
+  "execution_settings": {
+    "default": {
+      "max_tokens": 1000,
+      "temperature": 0.9,
+      "top_p": 0.0,
+      "presence_penalty": 0.0,
+      "frequency_penalty": 0.0
+    }
+  },
+  "input_variables": [
+    {
+      "name": "service",
+      "description": "El servicio que el usuario desea contactar.",
+      "default": ""
+    }
+  ]
+}

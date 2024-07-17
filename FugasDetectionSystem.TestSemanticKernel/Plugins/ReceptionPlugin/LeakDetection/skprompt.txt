@@ -1,0 +1,6 @@
+﻿	DADA LA SIGUIENTE INFORMACIÓN SOBRE LA CASA
+	DETERMINA SI SE SOSPECHA DE UNA FUGA
+
+	++++
+	Esta es la información sobre la casa:
+	{{$house_info}}

@@ -1,0 +1,12 @@
+﻿SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[ConsultarTodos{TableName}]
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    SELECT {ColumnNames} FROM [dbo].[{TableName}];
+END;
+GO
